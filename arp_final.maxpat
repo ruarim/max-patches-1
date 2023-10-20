@@ -6700,15 +6700,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-26", 0 ],
-					"midpoints" : [ 189.5, 105.375, 18.5, 105.375 ],
-					"order" : 1,
-					"source" : [ "obj-15", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-32", 0 ],
 					"midpoints" : [ 200.5, 105.375, 105.5, 105.375 ],
 					"order" : 1,
@@ -6728,7 +6719,6 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-38", 0 ],
-					"order" : 0,
 					"source" : [ "obj-15", 0 ]
 				}
 
